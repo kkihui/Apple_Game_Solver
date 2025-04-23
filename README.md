@@ -1,4 +1,4 @@
-# Apple_Game_Solver
+# 🍎 Apple_Game_Solver 🍎
 Pyautogui 기반 사과 게임 매크로 <br> <br> <br>
 
 <h4> 🎥 작동 영상 </h4>
